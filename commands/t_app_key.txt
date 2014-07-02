@@ -20,7 +20,7 @@ Key list:
         shutter_rel
         record - starts video recording
         mode
-        menu
+        menu - launches the gui menu
         power
         del
         format
