@@ -16,7 +16,7 @@ Key list:
         set
         focus
         focus_rel
-        shutter
+        shutter - take a picture
         shutter_rel
         record
         mode
