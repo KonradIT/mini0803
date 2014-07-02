@@ -19,9 +19,9 @@ Key list:
         shutter - take a picture
         shutter_rel
         record - starts video recording
-        mode
+        mode - switches to playback mode
         menu - launches the gui menu
-        power
+        power - shutdown
         del
         format
         copydir
