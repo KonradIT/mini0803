@@ -18,7 +18,7 @@ Key list:
         focus_rel
         shutter - take a picture
         shutter_rel
-        record
+        record - starts video recording
         mode
         menu
         power
