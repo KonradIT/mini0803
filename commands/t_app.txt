@@ -1,0 +1,17 @@
+d:\> t app
+App test command list:
+        msg
+        key
+        jack
+        mempool
+        curapp
+        test
+        dzoom
+        still_cap
+        fdstb
+        hwfdlog
+        cfaadj
+        profile
+        printts
+        usb_msc2fio
+        adb
