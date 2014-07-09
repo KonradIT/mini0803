@@ -6,3 +6,4 @@ sleep 10
 t app key record PR
 d:\autoexec.ash
 REBOOT yes
+
